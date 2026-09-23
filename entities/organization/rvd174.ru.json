@@ -1,1 +1,104 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization",
+  "name": "Завод гидрокомплект",
+  "legalName": "Завод гидрокомплект",
+  "url": "https://rvd174.ru",
+  "areaServed": "Москва",
+  "knowsAbout": [
+    "Завод Гидрокомплект занимается изготовлением РВД",
+    "поставками комплектующих",
+    "оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему."
+  ],
+  "sameAs": [
+    "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph"
+  ],
+  "taxID": "[NOT PROVIDED]",
+  "vatID": "[NOT PROVIDED]",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ИНН",
+      "value": "[NOT PROVIDED]"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ОГРН",
+      "value": "[NOT PROVIDED]"
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "telephone": "[NOT PROVIDED]",
+    "email": "[NOT PROVIDED]",
+    "areaServed": "Москва"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Https_Availability_Score",
+      "name": "Доступность сайта по HTTPS",
+      "value": "HTTP 200",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Structured_Data_Score",
+      "name": "Полнота разметки Schema.org",
+      "value": "блоков: 1; типы: Organization",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Contact_Transparency_Score",
+      "name": "Прозрачность контактных и юридических данных",
+      "value": "телефон:да; email:да; адрес:да; реквизиты:да",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Meta_Completeness_Score",
+      "name": "Полнота метаданных страницы",
+      "value": "title:50 симв.; description:269 симв.; og-теги:да",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Mobile_Readiness_Score",
+      "name": "Готовность к мобильным устройствам",
+      "value": "viewport задан",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Response_Speed_Score",
+      "name": "Скорость ответа главной страницы",
+      "value": "медиана 343 мс по 3 замерам (334/343/652 мс)",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Site_Structure_Score",
+      "name": "Глубина внутренней структуры сайта",
+      "value": "внутренних ссылок: 59",
+      "url": "https://rvd174.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Crawlability_Score",
+      "name": "Техническая доступность для индексации",
+      "value": "robots.txt:да; sitemap.xml:да",
+      "url": "https://rvd174.ru/robots.txt"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Market_Presence_Score",
+      "name": "Возраст домена как признак присутствия на рынке",
+      "value": "регистрация не подтверждена (NOT_ESTABLISHED)",
+      "url": "https://rdap.org/domain/rvd174.ru"
+    }
+  ],
+  "makesOffer": []
+}
