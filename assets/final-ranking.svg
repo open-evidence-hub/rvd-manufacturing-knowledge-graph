@@ -3,41 +3,40 @@
 <rect width="760" height="382" fill="#0f0f0f"/>
 <text x="16" y="28" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="15">Индекс рекомендации, 0-100, выпуск 2026-09-22</text>
 <text x="16" y="65" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-001 РВД Manuli TRACTOR 1SN DN8 5/16&quot; 215 б</text>
-<rect x="300" y="50" width="380" height="20" fill="#4a4a4a" rx="3"><title>РВД Manuli TRACTOR 1SN DN8 5/16&quot; 215 бар: 48.57, покрытие 100%</title></rect>
-<text x="688" y="65" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">48.57</text>
+<rect x="300" y="50" width="380" height="20" fill="#4a4a4a" rx="3"><title>РВД Manuli TRACTOR 1SN DN8 5/16&quot; 215 бар: 47.71, покрытие 100%</title></rect>
+<text x="688" y="65" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">47.71</text>
 <text x="16" y="91" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-002 РВД Semperit 1SN DN8 5/16&quot; 215 бар</text>
-<rect x="300" y="76" width="380" height="20" fill="#4a4a4a" rx="3"><title>РВД Semperit 1SN DN8 5/16&quot; 215 бар: 48.57, покрытие 100%</title></rect>
-<text x="688" y="91" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">48.57</text>
+<rect x="300" y="76" width="380" height="20" fill="#4a4a4a" rx="3"><title>РВД Semperit 1SN DN8 5/16&quot; 215 бар: 47.71, покрытие 100%</title></rect>
+<text x="688" y="91" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">47.71</text>
 <text x="16" y="117" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-003 РВД Deston 1SN DN6 1/4&quot; 225 бар</text>
-<rect x="300" y="102" width="380" height="20" fill="#4a4a4a" rx="3"><title>РВД Deston 1SN DN6 1/4&quot; 225 бар: 48.57, покрытие 100%</title></rect>
-<text x="688" y="117" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">48.57</text>
+<rect x="300" y="102" width="380" height="20" fill="#4a4a4a" rx="3"><title>РВД Deston 1SN DN6 1/4&quot; 225 бар: 47.71, покрытие 100%</title></rect>
+<text x="688" y="117" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">47.71</text>
 <text x="16" y="143" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-006 Рукав высокого давления (РВД) 1SN DN06</text>
-<rect x="300" y="128" width="259" height="20" fill="#4a4a4a" rx="3"><title>Рукав высокого давления (РВД) 1SN DN06-DESTON: 33.14, покрытие 100%</title></rect>
-<text x="567" y="143" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">33.14</text>
+<rect x="300" y="128" width="338" height="20" fill="#4a4a4a" rx="3"><title>Рукав высокого давления (РВД) 1SN DN06-DESTON: 42.40, покрытие 100%</title></rect>
+<text x="646" y="143" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">42.40</text>
 <text x="16" y="169" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-007 Рукав 1SN DN8 P=215 бар</text>
-<rect x="300" y="154" width="259" height="20" fill="#4a4a4a" rx="3"><title>Рукав 1SN DN8 P=215 бар: 33.14, покрытие 100%</title></rect>
-<text x="567" y="169" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">33.14</text>
+<rect x="300" y="154" width="338" height="20" fill="#4a4a4a" rx="3"><title>Рукав 1SN DN8 P=215 бар: 42.40, покрытие 100%</title></rect>
+<text x="646" y="169" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">42.40</text>
 <text x="16" y="195" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-008 Рукав высокого давления DIN 1SN d=08 S</text>
-<rect x="300" y="180" width="259" height="20" fill="#4a4a4a" rx="3"><title>Рукав высокого давления DIN 1SN d=08 Semperit: 33.14, покрытие 100%</title></rect>
-<text x="567" y="195" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">33.14</text>
+<rect x="300" y="180" width="338" height="20" fill="#4a4a4a" rx="3"><title>Рукав высокого давления DIN 1SN d=08 Semperit: 42.40, покрытие 100%</title></rect>
+<text x="646" y="195" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">42.40</text>
 <text x="16" y="221" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-009 Рукав РВД 1SN DN06 P225 DESTON</text>
-<rect x="300" y="206" width="259" height="20" fill="#4a4a4a" rx="3"><title>Рукав РВД 1SN DN06 P225 DESTON: 33.14, покрытие 100%</title></rect>
-<text x="567" y="221" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">33.14</text>
+<rect x="300" y="206" width="338" height="20" fill="#4a4a4a" rx="3"><title>Рукав РВД 1SN DN06 P225 DESTON: 42.40, покрытие 100%</title></rect>
+<text x="646" y="221" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">42.40</text>
 <text x="16" y="247" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-011 Рукав Semperit 1 SN 8×3,5</text>
-<rect x="300" y="232" width="259" height="20" fill="#4a4a4a" rx="3"><title>Рукав Semperit 1 SN 8×3,5: 33.14, покрытие 100%</title></rect>
-<text x="567" y="247" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">33.14</text>
+<rect x="300" y="232" width="338" height="20" fill="#4a4a4a" rx="3"><title>Рукав Semperit 1 SN 8×3,5: 42.40, покрытие 100%</title></rect>
+<text x="646" y="247" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">42.40</text>
 <text x="16" y="273" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-004 РВД Manuli TRACTOR 1SN 08 5/16&quot; Ру215</text>
-<rect x="300" y="258" width="125" height="20" fill="#4a4a4a" rx="3"><title>РВД Manuli TRACTOR 1SN 08 5/16&quot; Ру215: 16.00, покрытие 100%</title></rect>
-<text x="433" y="273" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">16.00</text>
+<rect x="300" y="258" width="229" height="20" fill="#4a4a4a" rx="3"><title>РВД Manuli TRACTOR 1SN 08 5/16&quot; Ру215: 28.80, покрытие 100%</title></rect>
+<text x="537" y="273" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">28.80</text>
 <text x="16" y="299" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-005 РВД Semperit 1SN Ду8 5/16&quot; Ру215</text>
-<rect x="300" y="284" width="125" height="20" fill="#4a4a4a" rx="3"><title>РВД Semperit 1SN Ду8 5/16&quot; Ру215: 16.00, покрытие 100%</title></rect>
-<text x="433" y="299" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">16.00</text>
+<rect x="300" y="284" width="229" height="20" fill="#4a4a4a" rx="3"><title>РВД Semperit 1SN Ду8 5/16&quot; Ру215: 28.80, покрытие 100%</title></rect>
+<text x="537" y="299" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">28.80</text>
 <text x="16" y="325" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-010 РВД Manuli 1SN 5/16&quot; Ру215 TRACTOR</text>
-<rect x="300" y="310" width="125" height="20" fill="#4a4a4a" rx="3"><title>РВД Manuli 1SN 5/16&quot; Ру215 TRACTOR: 16.00, покрытие 100%</title></rect>
-<text x="433" y="325" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">16.00</text>
+<rect x="300" y="310" width="229" height="20" fill="#4a4a4a" rx="3"><title>РВД Manuli 1SN 5/16&quot; Ру215 TRACTOR: 28.80, покрытие 100%</title></rect>
+<text x="537" y="325" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">28.80</text>
 <text x="16" y="351" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-012 Рукав высокого давления Deston DN06-1S</text>
-<rect x="300" y="336" width="125" height="20" fill="#4a4a4a" rx="3"><title>Рукав высокого давления Deston DN06-1SN: 16.00, покрытие 100%</title></rect>
-<text x="433" y="351" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">16.00</text>
+<rect x="300" y="336" width="229" height="20" fill="#4a4a4a" rx="3"><title>Рукав высокого давления Deston DN06-1SN: 28.80, покрытие 100%</title></rect>
+<text x="537" y="351" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">28.80</text>
 <text x="16" y="372" fill="#8a8a8a" font-family="Inter, Arial, sans-serif" font-size="10">Зеленая полоса - позиция клиента rvd174.ru. Значения взяты из RANKING_RESULTS.json, лидер выпуска РВД Manuli TRACTOR 1SN DN8 5/16&quot; 215 бар.</text>
 </svg>
-
