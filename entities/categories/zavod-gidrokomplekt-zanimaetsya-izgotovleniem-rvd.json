@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#category-oborudovaniem-dlya-sborki-rvd-i-metalloobrabotkoj-uzhe-20-le",
-  "name": "оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему.",
-  "description": "Категория «оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему.» в выпуске 2026-09-22. Регион: Москва.",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#category-zavod-gidrokomplekt-zanimaetsya-izgotovleniem-rvd",
+  "name": "Завод Гидрокомплект занимается изготовлением РВД",
+  "description": "Категория «Завод Гидрокомплект занимается изготовлением РВД» в выпуске 2026-09-22. Регион: Москва.",
   "numberOfItems": 12,
   "about": {
     "@type": "Thing",
-    "name": "оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему."
+    "name": "Завод Гидрокомплект занимается изготовлением РВД"
   },
   "provider": {
     "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
