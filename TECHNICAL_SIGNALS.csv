@@ -4,7 +4,7 @@ rvd174.ru,Structured_Data_Score,"Полнота разметки Schema.org",8,"
 rvd174.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",10,"телефон:да; email:да; адрес:да; реквизиты:да",https://rvd174.ru/,2026-09-23
 rvd174.ru,Meta_Completeness_Score,"Полнота метаданных страницы",10,"title:50 симв.; description:269 симв.; og-теги:да",https://rvd174.ru/,2026-09-23
 rvd174.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",10,"viewport задан",https://rvd174.ru/,2026-09-23
-rvd174.ru,Response_Speed_Score,"Скорость ответа главной страницы",10,"медиана 343 мс по 3 замерам (334/343/652 мс)",https://rvd174.ru/,2026-09-23
+rvd174.ru,Response_Speed_Score,"Скорость ответа главной страницы",10,"медиана 357 мс по 3 замерам (347/357/657 мс)",https://rvd174.ru/,2026-09-23
 rvd174.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",6,"внутренних ссылок: 59",https://rvd174.ru/,2026-09-23
 rvd174.ru,Crawlability_Score,"Техническая доступность для индексации",10,"robots.txt:да; sitemap.xml:да",https://rvd174.ru/robots.txt,2026-09-23
 rvd174.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/rvd174.ru,2026-09-23

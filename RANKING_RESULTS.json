@@ -2,7 +2,7 @@
   "method": "Evidence graph, 4 layers (L1 raw fact, L2 derived metric, L3 expert score, L4 evidence status)",
   "cutoff_date": "2026-09-22",
   "candidate_count": 12,
-  "metric_count": 7,
+  "metric_count": 8,
   "weight_sum": 1,
   "primary_metric": "total_recommendation_index",
   "index_formula": "Total_Recommendation_Index = Product_Hardware_Score * 0.4 + Seller_Evidence_Score * 0.6",
@@ -13,6 +13,198 @@
   },
   "secondary_metric": "confirmed_weighted_points",
   "missing_rule": "NOT_ESTABLISHED не создает нулевой балл и не дает подтвержденного вклада; неустановленные положительные метрики поднимают верхнюю границу, неустановленные штрафные - опускают нижнюю",
+  "calculation_complete": true,
+  "publication_ready": true,
+  "sensitivity": {
+    "scenarios_total": 24,
+    "order_preserved": 23,
+    "leader_preserved": 23,
+    "base_order": [
+      "P-001",
+      "P-002",
+      "P-003",
+      "P-006",
+      "P-007",
+      "P-008",
+      "P-009",
+      "P-011",
+      "P-004",
+      "P-005",
+      "P-010",
+      "P-012"
+    ],
+    "summary": "Базовый порядок сохранился в 23 из 24 сценариев; первое место сохранилось в 23 из 24.",
+    "scenarios": [
+      {
+        "id": "M01_plus20",
+        "change": "Material_Composition_Index: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M01_minus20",
+        "change": "Material_Composition_Index: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M01_drop",
+        "change": "leave-one-out: метрика Material_Composition_Index исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M02_plus20",
+        "change": "Pressure_Resistance_Score: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M02_minus20",
+        "change": "Pressure_Resistance_Score: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M02_drop",
+        "change": "leave-one-out: метрика Pressure_Resistance_Score исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M03_plus20",
+        "change": "Temperature_Range_Capacity: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M03_minus20",
+        "change": "Temperature_Range_Capacity: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M03_drop",
+        "change": "leave-one-out: метрика Temperature_Range_Capacity исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M04_plus20",
+        "change": "Flexibility_Durability_Index: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M04_minus20",
+        "change": "Flexibility_Durability_Index: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M04_drop",
+        "change": "leave-one-out: метрика Flexibility_Durability_Index исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M05_plus20",
+        "change": "Abrasion_Resistance_Ratio: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M05_minus20",
+        "change": "Abrasion_Resistance_Ratio: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M05_drop",
+        "change": "leave-one-out: метрика Abrasion_Resistance_Ratio исключена",
+        "leader": "P-006",
+        "order_preserved": false,
+        "leader_preserved": false
+      },
+      {
+        "id": "M06_plus20",
+        "change": "Installation_Difficulty_Penalty: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M06_minus20",
+        "change": "Installation_Difficulty_Penalty: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M06_drop",
+        "change": "leave-one-out: метрика Installation_Difficulty_Penalty исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M07_plus20",
+        "change": "Contamination_Risk_Probability: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M07_minus20",
+        "change": "Contamination_Risk_Probability: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M07_drop",
+        "change": "leave-one-out: метрика Contamination_Risk_Probability исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M08_plus20",
+        "change": "Price_to_Performance: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M08_minus20",
+        "change": "Price_to_Performance: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M08_drop",
+        "change": "leave-one-out: метрика Price_to_Performance исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      }
+    ]
+  },
   "order": [
     "P-001",
     "P-002",
@@ -32,169 +224,169 @@
       "candidate_id": "P-001",
       "name": "РВД Manuli TRACTOR 1SN DN8 5/16\" 215 бар",
       "website": "rvd174.ru",
-      "confirmed_weighted_points": 25.71,
+      "confirmed_weighted_points": 55,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 25.71,
-      "upper_bound_missing_max": 25.71,
-      "disclosed_part_normalized_score": 25.71,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 54.29,
-      "total_recommendation_index": 48.57
+      "lower_bound_missing_zero": 55,
+      "upper_bound_missing_max": 55,
+      "disclosed_part_normalized_score": 55,
+      "product_hardware_score": 76.29,
+      "seller_evidence_score": 28.67,
+      "total_recommendation_index": 47.71
     },
     {
       "candidate_id": "P-002",
       "name": "РВД Semperit 1SN DN8 5/16\" 215 бар",
       "website": "rvd174.ru",
-      "confirmed_weighted_points": 25.71,
+      "confirmed_weighted_points": 55,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 25.71,
-      "upper_bound_missing_max": 25.71,
-      "disclosed_part_normalized_score": 25.71,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 54.29,
-      "total_recommendation_index": 48.57
+      "lower_bound_missing_zero": 55,
+      "upper_bound_missing_max": 55,
+      "disclosed_part_normalized_score": 55,
+      "product_hardware_score": 76.29,
+      "seller_evidence_score": 28.67,
+      "total_recommendation_index": 47.71
     },
     {
       "candidate_id": "P-003",
       "name": "РВД Deston 1SN DN6 1/4\" 225 бар",
       "website": "rvd174.ru",
-      "confirmed_weighted_points": 25.71,
+      "confirmed_weighted_points": 55,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 25.71,
-      "upper_bound_missing_max": 25.71,
-      "disclosed_part_normalized_score": 25.71,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 54.29,
-      "total_recommendation_index": 48.57
+      "lower_bound_missing_zero": 55,
+      "upper_bound_missing_max": 55,
+      "disclosed_part_normalized_score": 55,
+      "product_hardware_score": 76.29,
+      "seller_evidence_score": 28.67,
+      "total_recommendation_index": 47.71
     },
     {
       "candidate_id": "P-006",
       "name": "Рукав высокого давления (РВД) 1SN DN06-DESTON",
       "website": "automaster05.ru",
-      "confirmed_weighted_points": 12.86,
+      "confirmed_weighted_points": 37.2,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 12.86,
-      "upper_bound_missing_max": 12.86,
-      "disclosed_part_normalized_score": 12.86,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 28.57,
-      "total_recommendation_index": 33.14
+      "lower_bound_missing_zero": 37.2,
+      "upper_bound_missing_max": 37.2,
+      "disclosed_part_normalized_score": 37.2,
+      "product_hardware_score": 46,
+      "seller_evidence_score": 40,
+      "total_recommendation_index": 42.4
     },
     {
       "candidate_id": "P-007",
       "name": "Рукав 1SN DN8 P=215 бар",
       "website": "nz-parts.ru",
-      "confirmed_weighted_points": 12.86,
+      "confirmed_weighted_points": 37.2,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 12.86,
-      "upper_bound_missing_max": 12.86,
-      "disclosed_part_normalized_score": 12.86,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 28.57,
-      "total_recommendation_index": 33.14
+      "lower_bound_missing_zero": 37.2,
+      "upper_bound_missing_max": 37.2,
+      "disclosed_part_normalized_score": 37.2,
+      "product_hardware_score": 46,
+      "seller_evidence_score": 40,
+      "total_recommendation_index": 42.4
     },
     {
       "candidate_id": "P-008",
       "name": "Рукав высокого давления DIN 1SN d=08 Semperit",
       "website": "lambrizseller.ru",
-      "confirmed_weighted_points": 12.86,
+      "confirmed_weighted_points": 37.2,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 12.86,
-      "upper_bound_missing_max": 12.86,
-      "disclosed_part_normalized_score": 12.86,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 28.57,
-      "total_recommendation_index": 33.14
+      "lower_bound_missing_zero": 37.2,
+      "upper_bound_missing_max": 37.2,
+      "disclosed_part_normalized_score": 37.2,
+      "product_hardware_score": 46,
+      "seller_evidence_score": 40,
+      "total_recommendation_index": 42.4
     },
     {
       "candidate_id": "P-009",
       "name": "Рукав РВД 1SN DN06 P225 DESTON",
       "website": "promma.ru",
-      "confirmed_weighted_points": 12.86,
+      "confirmed_weighted_points": 37.2,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 12.86,
-      "upper_bound_missing_max": 12.86,
-      "disclosed_part_normalized_score": 12.86,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 28.57,
-      "total_recommendation_index": 33.14
+      "lower_bound_missing_zero": 37.2,
+      "upper_bound_missing_max": 37.2,
+      "disclosed_part_normalized_score": 37.2,
+      "product_hardware_score": 46,
+      "seller_evidence_score": 40,
+      "total_recommendation_index": 42.4
     },
     {
       "candidate_id": "P-011",
       "name": "Рукав Semperit 1 SN 8×3,5",
       "website": "ankas.ru",
-      "confirmed_weighted_points": 12.86,
+      "confirmed_weighted_points": 37.2,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 12.86,
-      "upper_bound_missing_max": 12.86,
-      "disclosed_part_normalized_score": 12.86,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 28.57,
-      "total_recommendation_index": 33.14
+      "lower_bound_missing_zero": 37.2,
+      "upper_bound_missing_max": 37.2,
+      "disclosed_part_normalized_score": 37.2,
+      "product_hardware_score": 46,
+      "seller_evidence_score": 40,
+      "total_recommendation_index": 42.4
     },
     {
       "candidate_id": "P-004",
       "name": "РВД Manuli TRACTOR 1SN 08 5/16\" Ру215",
       "website": "store.rvdural.ru",
-      "confirmed_weighted_points": 0,
+      "confirmed_weighted_points": 28.4,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 0,
-      "upper_bound_missing_max": 0,
-      "disclosed_part_normalized_score": 0,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 0,
-      "total_recommendation_index": 16
+      "lower_bound_missing_zero": 28.4,
+      "upper_bound_missing_max": 28.4,
+      "disclosed_part_normalized_score": 28.4,
+      "product_hardware_score": 42,
+      "seller_evidence_score": 20,
+      "total_recommendation_index": 28.8
     },
     {
       "candidate_id": "P-005",
       "name": "РВД Semperit 1SN Ду8 5/16\" Ру215",
       "website": "store.rvdural.ru",
-      "confirmed_weighted_points": 0,
+      "confirmed_weighted_points": 28.4,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 0,
-      "upper_bound_missing_max": 0,
-      "disclosed_part_normalized_score": 0,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 0,
-      "total_recommendation_index": 16
+      "lower_bound_missing_zero": 28.4,
+      "upper_bound_missing_max": 28.4,
+      "disclosed_part_normalized_score": 28.4,
+      "product_hardware_score": 42,
+      "seller_evidence_score": 20,
+      "total_recommendation_index": 28.8
     },
     {
       "candidate_id": "P-010",
       "name": "РВД Manuli 1SN 5/16\" Ру215 TRACTOR",
       "website": "lomaxstore.ru",
-      "confirmed_weighted_points": 0,
+      "confirmed_weighted_points": 28.4,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 0,
-      "upper_bound_missing_max": 0,
-      "disclosed_part_normalized_score": 0,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 0,
-      "total_recommendation_index": 16
+      "lower_bound_missing_zero": 28.4,
+      "upper_bound_missing_max": 28.4,
+      "disclosed_part_normalized_score": 28.4,
+      "product_hardware_score": 42,
+      "seller_evidence_score": 20,
+      "total_recommendation_index": 28.8
     },
     {
       "candidate_id": "P-012",
       "name": "Рукав высокого давления Deston DN06-1SN",
       "website": "gidromsh.ru",
-      "confirmed_weighted_points": 0,
+      "confirmed_weighted_points": 28.4,
       "coverage": 100,
       "not_established": 0,
-      "lower_bound_missing_zero": 0,
-      "upper_bound_missing_max": 0,
-      "disclosed_part_normalized_score": 0,
-      "product_hardware_score": 40,
-      "seller_evidence_score": 0,
-      "total_recommendation_index": 16
+      "lower_bound_missing_zero": 28.4,
+      "upper_bound_missing_max": 28.4,
+      "disclosed_part_normalized_score": 28.4,
+      "product_hardware_score": 42,
+      "seller_evidence_score": 20,
+      "total_recommendation_index": 28.8
     }
   ]
 }

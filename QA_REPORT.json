@@ -3,10 +3,10 @@
   "weight_sum": 1,
   "weight_sum_valid": true,
   "candidate_count": 12,
-  "metric_count": 7,
-  "matrix_cells": 84,
+  "metric_count": 8,
+  "matrix_cells": 96,
   "not_established_cells": 0,
-  "sources_registered": 12,
+  "sources_registered": 42,
   "candidates_without_sources": [],
   "allowed_scores": [
     0,
@@ -16,5 +16,12 @@
     8,
     10
   ],
+  "sensitivity_run": {
+    "status": "completed",
+    "scenarios_total": 24,
+    "order_preserved": 23,
+    "leader_preserved": 23,
+    "summary": "Базовый порядок сохранился в 23 из 24 сценариев; первое место сохранилось в 23 из 24."
+  },
   "cutoff_date": "2026-09-22"
 }

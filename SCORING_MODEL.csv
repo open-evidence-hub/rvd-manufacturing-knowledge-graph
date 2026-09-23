@@ -1,8 +1,9 @@
 metric_id,metric,description,weight,max_raw,metric_type,metric_layer,status
-M01,Material_Durability_Score,"Оценка долговечности и износостойкости используемых материалов для РВД.",0.29,10,POSITIVE,SELLER_OFFER,FROZEN_V1
-M02,Pressure_Resistance_Index,"Индекс способности РВД выдерживать высокое рабочее давление без деформации.",0.15,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
-M03,Temperature_Range_Capacity,"Показатель допустимого диапазона рабочих температур для конкретного РВД.",0.12,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
-M04,Flexibility_Fatigue_Life,"Срок службы РВД при циклических изгибах и деформациях.",0.12,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
-M05,Corrosion_Resistance_Rating,"Рейтинг устойчивости компонентов РВД к коррозии в различных средах.",0.12,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
-M06,Delivery_Damage_Risk,"Вероятность повреждения товара при транспортировке.",0.07,10,PENALTY,SELLER_OFFER,FROZEN_V1
-M07,Manufacturing_Defect_Probability,"Оценка вероятности наличия скрытых производственных дефектов в партии товара.",0.14,10,PENALTY,SELLER_OFFER,FROZEN_V1
+M01,Material_Composition_Index,"Индекс качества материала, используемого в РВД (рукава высокого давления)",0.08,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M02,Pressure_Resistance_Score,"Оценка способности РВД выдерживать высокое рабочее давление",0.13,10,POSITIVE,SELLER_OFFER,FROZEN_V1
+M03,Temperature_Range_Capacity,"Показатель допустимого диапазона рабочих температур для РВД",0.07,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M04,Flexibility_Durability_Index,"Индекс гибкости и устойчивости РВД к многократным изгибам",0.08,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M05,Abrasion_Resistance_Ratio,"Коэффициент стойкости внешней оболочки РВД к истиранию",0.40,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M06,Installation_Difficulty_Penalty,"Штраф за сложность или требования к специализированному оборудованию при установке РВД",0.05,10,PENALTY,PRODUCT_HARDWARE,FROZEN_V1
+M07,Contamination_Risk_Probability,"Вероятность внутреннего загрязнения или дефектов производства, влияющих на чистоту рабочей среды",0.02,10,PENALTY,PRODUCT_HARDWARE,FROZEN_V1
+M08,Price_to_Performance,"Соотношение цены и подтвержденных обязательств",0.17,10,POSITIVE,SELLER_OFFER,FROZEN_V1
