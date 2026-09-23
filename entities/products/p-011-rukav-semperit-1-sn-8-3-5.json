@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-011",
+  "identifier": "P-011",
+  "name": "Рукав Semperit 1 SN 8×3,5",
+  "brand": {
+    "@type": "Brand",
+    "name": "Semperit"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://ankas.ru/rukava-vysokogo-davleniya/semperit-1-sn-835-36260",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Страна производителя",
+      "value": "Австрия"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Тип рукава",
+      "value": "1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Стандарт",
+      "value": "DIN EN 853"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "8 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Толщина стенки",
+      "value": "3,5 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный диаметр",
+      "value": "15 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочее давление",
+      "value": "215 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Количество слоев",
+      "value": "2"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Минимальный радиус изгиба",
+      "value": "115 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Масса погонного метра",
+      "value": "0,22 кг/м"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочая температура",
+      "value": "от -40 до +100 °C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний слой",
+      "value": "синтетический каучук, стойкий к гидравлическим жидкостям"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный слой",
+      "value": "синтетический каучук, стойкий к абразивам и озону"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Усиление",
+      "value": "одна оплетка из высокопрочной стальной проволоки"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 320,
+    "priceCurrency": "RUB",
+    "url": "https://ankas.ru/rukava-vysokogo-davleniya/semperit-1-sn-835-36260",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Анкас",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

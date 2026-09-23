@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-007",
+  "identifier": "P-007",
+  "name": "Рукав 1SN DN8 P=215 бар",
+  "brand": {
+    "@type": "Brand",
+    "name": "ООО «НЗ-ПАРТС»"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://nz-parts.ru/product/rukav-1sn-dn-8/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Тип рукава",
+      "value": "1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Номинальный диаметр",
+      "value": "8 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочее давление",
+      "value": "215 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Артикул",
+      "value": "1SN08"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 150,
+    "priceCurrency": "RUB",
+    "url": "https://nz-parts.ru/product/rukav-1sn-dn-8/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "ООО «НЗ-ПАРТС»",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

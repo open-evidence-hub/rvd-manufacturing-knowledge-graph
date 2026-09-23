@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-012",
+  "identifier": "P-012",
+  "name": "Рукав высокого давления Deston DN06-1SN",
+  "brand": {
+    "@type": "Brand",
+    "name": "Deston"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://gidromsh.ru/rukava-vysokogo-davleniya/tproduct/696726402-166037756131-rvd-dn06-1sn",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Тип",
+      "value": "стандартный"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "6 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Количество слоев оплетки",
+      "value": "1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Масса",
+      "value": "230 г"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "RUB",
+    "url": "https://gidromsh.ru/rukava-vysokogo-davleniya/tproduct/696726402-166037756131-rvd-dn06-1sn",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "gidromsh.ru",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-010",
+  "identifier": "P-010",
+  "name": "РВД Manuli 1SN 5/16\" Ру215 TRACTOR",
+  "brand": {
+    "@type": "Brand",
+    "name": "Manuli"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://lomaxstore.ru/176936/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Артикул производителя",
+      "value": "HPH-E-1SN-08 TR MNL"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Код товара",
+      "value": "176936"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Серия",
+      "value": "TRACTOR"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Тип рукава",
+      "value": "1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "8 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Размер",
+      "value": "5/16 дюйма"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Максимальное рабочее давление",
+      "value": "215 бар"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "RUB",
+    "url": "https://lomaxstore.ru/176936/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Ломакс",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

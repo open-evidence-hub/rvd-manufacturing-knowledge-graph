@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-002",
+  "identifier": "P-002",
+  "name": "РВД Semperit 1SN DN8 5/16\" 215 бар",
+  "brand": {
+    "@type": "Brand",
+    "name": "Semperit"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://rvd174.ru/rvd/gidrorukav/1sn/rukav-en853-1sn-8/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Стандарт",
+      "value": "EN853 1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "8,3 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный диаметр",
+      "value": "14,7 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочее давление",
+      "value": "215 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Разрывное давление",
+      "value": "860 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Радиус изгиба",
+      "value": "115 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Масса погонного метра",
+      "value": "220 г/м"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний слой",
+      "value": "синтетический каучук, стойкий к гидравлическим жидкостям"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный слой",
+      "value": "синтетический каучук, стойкий к абразивам и озону"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Армирование",
+      "value": "одна оплетка из высокопрочной стальной проволоки"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочая температура",
+      "value": "от -40 до +100 °C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Кратковременная температура",
+      "value": "+120 °C"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "RUB",
+    "url": "https://rvd174.ru/rvd/gidrorukav/1sn/rukav-en853-1sn-8/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "ООО «Завод Гидрокомплект»",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

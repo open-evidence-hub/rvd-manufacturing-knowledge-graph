@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-001",
+  "identifier": "P-001",
+  "name": "РВД Manuli TRACTOR 1SN DN8 5/16\" 215 бар",
+  "brand": {
+    "@type": "Brand",
+    "name": "Manuli"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://rvd174.ru/rvd/gidrorukav/1sn/tractor-en853-1sn-8/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Стандарт",
+      "value": "EN853 1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "8 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный диаметр",
+      "value": "14 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочее давление",
+      "value": "215 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Разрывное давление",
+      "value": "850 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Радиус изгиба",
+      "value": "114 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Масса погонного метра",
+      "value": "260 г/м"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний слой",
+      "value": "синтетическая маслостойкая резина"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный слой",
+      "value": "синтетическая резина с гладким покрытием"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Армирование",
+      "value": "1 высокопрочная стальная оплетка"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочая температура",
+      "value": "от -40 до +100 °C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Кратковременная температура",
+      "value": "+121 °C"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "RUB",
+    "url": "https://rvd174.ru/rvd/gidrorukav/1sn/tractor-en853-1sn-8/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "ООО «Завод Гидрокомплект»",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

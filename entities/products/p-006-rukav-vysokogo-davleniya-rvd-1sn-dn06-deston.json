@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-006",
+  "identifier": "P-006",
+  "name": "Рукав высокого давления (РВД) 1SN DN06-DESTON",
+  "brand": {
+    "@type": "Brand",
+    "name": "DESTON"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://automaster05.ru/categories/item/rukav-vysokogo-davleniya-rvd-1sn-dn06-deston/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Тип рукава",
+      "value": "1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Номинальный диаметр",
+      "value": "6 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Артикул",
+      "value": "РВД DN06-1SN-DESTON"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Код товара",
+      "value": "26563"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 130,
+    "priceCurrency": "RUB",
+    "url": "https://automaster05.ru/categories/item/rukav-vysokogo-davleniya-rvd-1sn-dn06-deston/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Автомастер",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

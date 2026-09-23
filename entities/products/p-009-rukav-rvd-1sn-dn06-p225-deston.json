@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-009",
+  "identifier": "P-009",
+  "name": "Рукав РВД 1SN DN06 P225 DESTON",
+  "brand": {
+    "@type": "Brand",
+    "name": "DESTON"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://promma.ru/catalog/rukava-vysokogo-davleniya-i-fitingi/rukava-1sn-1sc/rukava-1sn-deston/44043/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Артикул",
+      "value": "PM00014709"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Тип рукава",
+      "value": "1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Стандарт",
+      "value": "DIN EN 853"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "6 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Размер",
+      "value": "1/4 дюйма"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочее давление",
+      "value": "225 атм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний слой",
+      "value": "маслостойкая синтетическая резина"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный слой",
+      "value": "абразивостойкая синтетическая резина, стойкая к маслу, топливу, осадкам и ультрафиолету"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Усиление",
+      "value": "одинарная оплетка из высокопрочной стальной проволоки"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочая температура",
+      "value": "от -40 до +100 °C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочая среда",
+      "value": "минеральные и гидравлические масла, жидкое топливо, водомасляные эмульсии"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 193,
+    "priceCurrency": "RUB",
+    "eligibleQuantity": {
+      "@type": "QuantitativeValue",
+      "unitText": "м"
+    },
+    "url": "https://promma.ru/catalog/rukava-vysokogo-davleniya-i-fitingi/rukava-1sn-1sc/rukava-1sn-deston/44043/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Промышленные материалы",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#P-008",
+  "identifier": "P-008",
+  "name": "Рукав высокого давления DIN 1SN d=08 Semperit",
+  "brand": {
+    "@type": "Brand",
+    "name": "Semperit"
+  },
+  "category": "Рукава высокого давления",
+  "url": "https://lambrizseller.ru/product/803596472743-rukav-visokogo-davleniya-din-1sn-d08-sem",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Артикул",
+      "value": "SEM 1SN D08"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Тип рукава",
+      "value": "1SN"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Стандарты",
+      "value": "EN853, DIN20022 часть 4"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Материал",
+      "value": "резина и сталь"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Длина",
+      "value": "1 м"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Количество оплеток",
+      "value": "1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Давление",
+      "value": "215 бар"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружный диаметр",
+      "value": "12,7 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Внутренний диаметр",
+      "value": "8 мм"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Масса",
+      "value": "0,24 кг"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Рабочая температура",
+      "value": "от -40 до +100 °C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Наружное покрытие",
+      "value": "синтетическая резина"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 299,
+    "priceCurrency": "RUB",
+    "eligibleQuantity": {
+      "@type": "QuantitativeValue",
+      "unitText": "м"
+    },
+    "url": "https://lambrizseller.ru/product/803596472743-rukav-visokogo-davleniya-din-1sn-d08-sem",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "ООО «ЛАМБРИЗ»",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph#organization"
+  }
+}
