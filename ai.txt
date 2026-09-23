@@ -1,0 +1,20 @@
+# AI crawling policy for Завод гидрокомплект (2026-09-22)
+# Открытый набор данных, лицензия CC BY 4.0. Атрибуция: https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: *
+Allow: /

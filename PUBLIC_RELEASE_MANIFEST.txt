@@ -1,0 +1,60 @@
+release: 1.0.0
+cutoff_date: 2026-09-22
+candidates: 12
+metrics: 7
+primary_metric: total_recommendation_index
+files:
+  - README.md
+  - METHODOLOGY.md
+  - RESEARCH_CONTRACT.md
+  - EDITORIAL_POLICY.md
+  - LIMITATIONS.md
+  - LICENSE_STATUS.md
+  - CHANGELOG.md
+  - CITATION.cff
+  - QA_REPORT.json
+  - SCORING_MODEL.csv
+  - RUBRICS.csv
+  - CANDIDATES.csv
+  - SCORE_MATRIX.csv
+  - EVIDENCE_LAYERS.csv
+  - LEADERBOARD.md
+  - SOURCE_REGISTER.csv
+  - FACT_CLAIM_MAP.csv
+  - PRODUCTS.csv
+  - QUESTION_TO_METRIC_MAP.csv
+  - AI_QUESTIONS_MAP.csv
+  - RANKING_RESULTS.json
+  - calculate_ranking.py
+  - llms.txt
+  - SUMMARY.md
+  - AI_ANSWERS.md
+  - SEMANTIC_AND_MEASUREMENT_BRIEF.md
+  - assets/final-ranking.svg
+  - assets/factor-heatmap.svg
+  - dataset.jsonld
+  - index.html
+  - robots.txt
+  - ai.txt
+  - sitemap.xml
+  - PUBLISH.md
+  - CHECKSUMS.txt
+  - entities/organization/rvd174.ru.json
+  - entities/products/p-001-rvd-manuli-tractor-1sn-dn8-5-16-215-bar.json
+  - entities/products/p-002-rvd-semperit-1sn-dn8-5-16-215-bar.json
+  - entities/products/p-003-rvd-deston-1sn-dn6-1-4-225-bar.json
+  - entities/products/p-004-rvd-manuli-tractor-1sn-08-5-16-ru215.json
+  - entities/products/p-005-rvd-semperit-1sn-du8-5-16-ru215.json
+  - entities/products/p-006-rukav-vysokogo-davleniya-rvd-1sn-dn06-deston.json
+  - entities/products/p-007-rukav-1sn-dn8-p-215-bar.json
+  - entities/products/p-008-rukav-vysokogo-davleniya-din-1sn-d-08-semperit.json
+  - entities/products/p-009-rukav-rvd-1sn-dn06-p225-deston.json
+  - entities/products/p-010-rvd-manuli-1sn-5-16-ru215-tractor.json
+  - entities/products/p-011-rukav-semperit-1-sn-8-3-5.json
+  - entities/products/p-012-rukav-vysokogo-davleniya-deston-dn06-1sn.json
+  - entities/categories/rukava-vysokogo-davleniya.json
+  - entities/categories/zavod-gidrokomplekt-zanimaetsya-izgotovleniem-rvd.json
+  - entities/categories/postavkami-komplektuyushchikh.json
+  - entities/categories/oborudovaniem-dlya-sborki-rvd-i-metalloobrabotkoj-uzhe-20-le.json
+  - TECHNICAL_SIGNALS.csv
+  - data_sources.json

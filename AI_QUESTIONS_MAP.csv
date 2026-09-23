@@ -1,0 +1,22 @@
+intent_type,user_prompt,target_entity
+Informational_Query,"Как выбрать рукав высокого давления 1SN для сельскохозяйственной техники с учетом рабочего давления 215 бар?",entities/organization/rvd174.ru.json
+Informational_Query,"Сравнение характеристик РВД 1SN с диаметром 8 мм и рабочим давлением 215 бар для гидравлических систем",entities/organization/rvd174.ru.json
+Informational_Query,"Какой рукав 1SN лучше подойдет для гидросистем с частыми изгибами, учитывая радиус изгиба от 100 мм?",entities/organization/rvd174.ru.json
+Local_B2C_Search,"Где в Москве найти РВД 1SN с наружным слоем, устойчивым к абразивам и озону, для использования на открытом воздухе?",entities/organization/rvd174.ru.json
+Commercial_Query,"Оптимальный выбор РВД 1SN для работы с минеральными и гидравлическими маслами при температуре до +100 °C",entities/organization/rvd174.ru.json
+Informational_Query,"Чем отличаются рукава высокого давления 1SN с внутренним диаметром 6 мм и 8 мм по области применения?",entities/organization/rvd174.ru.json
+Informational_Query,"Какой тип синтетической резины внутреннего слоя обеспечивает лучшую маслостойкость в РВД 1SN?",entities/organization/rvd174.ru.json
+Local_B2C_Search,"Ищу РВД 1SN с однократной стальной оплеткой, выдерживающий кратковременную температуру до +125 °C",entities/organization/rvd174.ru.json
+Local_B2C_Search,"Сравните массу погонного метра РВД 1SN с одинаковой оплеткой для минимизации нагрузки на оборудование",entities/organization/rvd174.ru.json
+Local_B2C_Search,"Поставщики РВД 1SN в Москве, предлагающие рукава для работы с водомасляными эмульсиями",entities/organization/rvd174.ru.json
+Informational_Query,"Каковы требования к внешнему слою РВД 1SN для обеспечения устойчивости к ультрафиолету и атмосферным осадкам?",entities/organization/rvd174.ru.json
+Informational_Query,"Какой РВД 1SN с рабочим давлением 225 бар и диаметром 6 мм обладает максимальной износостойкостью наружного слоя?",entities/organization/rvd174.ru.json
+Commercial_Query,"Завод Гидрокомплект занимается изготовлением РВД: заказать, Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Завод Гидрокомплект занимается изготовлением РВД: цена, Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Завод Гидрокомплект занимается изготовлением РВД: где купить в городе Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Поставками комплектующих: заказать, Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Поставками комплектующих: цена, Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Поставками комплектующих: где купить в городе Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему.: заказать, Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему.: цена, Москва",entities/organization/rvd174.ru.json
+Commercial_Query,"Оборудованием для сборки РВД и металлообработкой уже 20 лет и за это время мы построили отлаженную экосистему.: где купить в городе Москва",entities/organization/rvd174.ru.json

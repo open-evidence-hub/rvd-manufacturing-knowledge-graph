@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph/index.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph/llms.txt</loc>
+  </url>
+  <url>
+    <loc>https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph/dataset.jsonld</loc>
+  </url>
+  <url>
+    <loc>https://github.com/open-evidence-hub/rvd-manufacturing-knowledge-graph/SCORE_MATRIX.csv</loc>
+  </url>
+</urlset>
